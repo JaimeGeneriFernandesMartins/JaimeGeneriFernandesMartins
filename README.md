@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @JaimeGeneriFernandesMartins
+projeto/
+  - css/
+    - styles.css
+  - js/
+    - script.js
+  - imagens/
+    - imagem1.jpg
+    - imagem2.png
+  - html/
+    - index.html
+    - pagina1.html
+    - pagina2.html-
+    -
+    -   👋 Hi, I’m @JaimeGeneriFernandesMartins
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
